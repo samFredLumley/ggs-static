@@ -1,0 +1,16 @@
+[04/Apr/2020:23:40:24] (ℹ️): WordPress Instance Info:
+[04/Apr/2020:23:40:24] (ℹ️): Home URL : http://ggs.local
+[04/Apr/2020:23:40:24] (ℹ️): Site URL : http://ggs.local
+[04/Apr/2020:23:40:24] (ℹ️): WordPress Version : 5.4
+[04/Apr/2020:23:40:24] (ℹ️): Onboarding Version : 1.8.2
+[04/Apr/2020:23:40:24] (ℹ️): Multisite : No
+[04/Apr/2020:23:40:24] (ℹ️): Server Info : nginx/1.16.0
+[04/Apr/2020:23:40:24] (ℹ️): PHP Version : 7.3.5
+[04/Apr/2020:23:40:24] (ℹ️): HTTPS : No
+[04/Apr/2020:23:40:24] (ℹ️): PHP Max Execution Time : 1200
+[04/Apr/2020:23:40:24] (ℹ️): PHP Max Input Vars : 4000
+[04/Apr/2020:23:40:24] (ℹ️): Max Upload Size : 314572800
+[04/Apr/2020:23:40:24] (ℹ️): Plugins:
+[04/Apr/2020:23:40:24] (ℹ️): [PLUGIN] Elementor : v2.9.7 (Elementor.com)
+[04/Apr/2020:23:40:24] (ℹ️): [PLUGIN] Insert Headers and Footers : v1.4.5 (WPBeginner)
+[04/Apr/2020:23:40:24] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.9.5 (Themeisle)
